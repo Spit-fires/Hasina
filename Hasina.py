@@ -1,8 +1,9 @@
-import os
+import অস
+userQ = input("apnar jonno ami ki korte pari? : ")
 nameq = "apnar nan ki"
 
 
-if input("Apnar jonno ami ki korte pari? : ") == nameq:
- print("Amar nam Hasina!")
+if userQ == nameq:
+  print("Amar nam Hasina!")
 
   
