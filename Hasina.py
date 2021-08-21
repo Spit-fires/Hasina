@@ -1,7 +1,7 @@
 import os
 import shutil
 import time
-import questions
+from questions import *
 while True:
  userQ = input("apnar jonno ami ki korte pari? : ")
  if (userQ == nameq):
