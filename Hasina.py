@@ -9,3 +9,4 @@ if (userQ == nameq):
 if (userQ == deleteQ):
   print("Accha delete kortesi")
   shutil.rmtree(path)
+input()
