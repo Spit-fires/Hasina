@@ -6,11 +6,11 @@ import random
 import Questions as Q
 import Answers as A
 
-while True: # while loop to avoid exiting 
+while True: # while loop to avoid exiting
  # Questions
  
  userQ = input("apnar jonno ami ki korte pari? : ") # user question
- if userQ == Q.Questions[NameQ]: 
+ if userQ == Q.Questions[NameQ]:
    print(A.Answers[NameA])
   if userQ == Q.Questions[FeelingQ]:
     print(A.Answers[FeelingA])
