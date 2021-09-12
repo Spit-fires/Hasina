@@ -7,3 +7,6 @@ pkg install python&&pkg install git&&git clone https://github.com/Spit-fires/Has
 # updating
 # Termux : 
 cd&&cd Hasina&& git pull
+# Uninstalling
+# Termux :
+cd && rm -rf Hasina
