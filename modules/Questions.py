@@ -1,3 +1,4 @@
+#!/usr/bin/python -tt
 Questions {
   "FeelingQ": "kemon asen",
   "NameQ": "apanr nam ki",

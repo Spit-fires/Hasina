@@ -1,3 +1,4 @@
+#!/usr/bin/python -tt
 Answers {
   
   "FeelingA": "ami valo asi",

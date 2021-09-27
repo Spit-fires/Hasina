@@ -1,3 +1,4 @@
+#!/usr/bin/python -tt
 # importing liberies
 import os
 import shutil
