@@ -12,10 +12,10 @@ while True: # while loop to avoid exiting
  userQ = input("apnar jonno ami ki korte pari? : ") # user question
  if userQ == Q.Questions[NameQ]:
    print(A.Answers[NameA])
-  if userQ == Q.Questions[FeelingQ]:
+ if userQ == Q.Questions[FeelingQ]:
     print(A.Answers[FeelingA])
-  if userQ == Q.Questions[LoveQ]:
+ if userQ == Q.Questions[LoveQ]:
     print(A.Answers[LoveA])
-  if userQ == Q.Questions[AgeQ]:
+ if userQ == Q.Questions[AgeQ]:
     print(A.Answers[AgeA])
-  
+   
