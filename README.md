@@ -10,3 +10,7 @@ cd&&cd Hasina&& git pull
 # Uninstalling
 # Termux :
 cd && rm -rf Hasina
+
+
+
+# NOTE : BROKEN
