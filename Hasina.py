@@ -17,3 +17,4 @@ while True: # while loop to avoid exiting
     print(A.Answers[LoveA])
   if userQ == Q.Questions[AgeQ]:
     print(A.Answers[AgeA])
+  
